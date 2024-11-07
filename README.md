@@ -25,3 +25,9 @@ To build the provided examples, run:
    rm -rf build && cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE=../aarch64_toolchain.cmake -DONLY_BUILD_HELLOWORLD=ON && cmake --build build
 
    ```
+## Build All
+   ```bash
+   ./build.sh
+
+   ```
+
