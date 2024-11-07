@@ -1,0 +1,9 @@
+[submodule "external/i2c-tools"]
+	path = external/i2c-tools
+	url = https://kernel.googlesource.com/pub/scm/utils/i2c-tools/i2c-tools
+[submodule "external/opencv"]
+	path = external/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "external/v4l-utils"]
+	path = external/v4l-utils
+	url = https://git.linuxtv.org/v4l-utils.git
