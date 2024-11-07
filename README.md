@@ -1,9 +1,21 @@
-# DreameL10sProUltraHeat
-Cross Compile Tools for Dreame L10s Pro Ultra Heat
+# Dreame L10s Pro Ultra Heat
+Cross Compilation Tools for the Dreame L10s Pro Ultra Heat
 
-## Configure Build Environment
-Download dreame.vacuum.r2338_1527_fel.zip from sciebo and put in root of this project  
-./init.sh
+## Overview
+This repository provides tools and scripts for cross-compiling projects for the Dreame L10s Pro Ultra Heat.
 
-## Build Examples
-./build.sh
+## Setting Up the Build Environment
+
+1. **Download Required Files**:  
+   Download the `dreame.vacuum.r2338_1527_fel.zip` file from Sciebo and place it in the root of this project directory.
+
+2. **Initialize the Environment**:  
+   Run the following command to set up the environment:
+   ```bash
+   ./init.sh
+   ```
+3. **Building Examples**:  
+   To build the provided examples, run:
+   ```bash
+   ./build.sh
+   ```
