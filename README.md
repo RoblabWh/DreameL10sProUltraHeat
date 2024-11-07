@@ -14,8 +14,8 @@ This repository provides tools and scripts for cross-compiling projects for the 
    ```bash
    ./init.sh
    ```
-3. **Building Examples**:  
-   To build the provided examples, run:
+## Building Examples  
+To build the provided examples, run:
    ```bash
    ./build.sh
    ```
