@@ -22,5 +22,6 @@ This repository provides tools and scripts for cross-compiling projects for the 
 ## Building Examples  
 To build the provided examples, run:
    ```bash
-   ./build.sh
+   rm -rf build && cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE=../aarch64_toolchain.cmake -DONLY_BUILD_HELLOWORLD=ON && cmake --build build
+
    ```
