@@ -4,6 +4,11 @@ Cross Compilation Tools for the Dreame L10s Pro Ultra Heat
 ## Overview
 This repository provides tools and scripts for cross-compiling projects for the Dreame L10s Pro Ultra Heat.
 
+## Clone Repository
+   ```bash
+   git@github.com:RoblabWh/DreameL10sProUltraHeat.git --recursive
+   ```
+
 ## Setting Up the Build Environment
 
 1. **Download Required Files**:  
