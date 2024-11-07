@@ -6,7 +6,7 @@ This repository provides tools and scripts for cross-compiling projects for the 
 
 ## Clone Repository
    ```bash
-   git@github.com:RoblabWh/DreameL10sProUltraHeat.git --recursive
+   git clone git@github.com:RoblabWh/DreameL10sProUltraHeat.git --recursive
    ```
 
 ## Setting Up the Build Environment
