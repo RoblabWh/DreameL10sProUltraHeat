@@ -12,7 +12,7 @@ This repository provides tools and scripts for cross-compiling projects for the 
 ## Setting Up the Build Environment
 
 1. **Download Required Files**:  
-   Download the `dreame.vacuum.r2338_1527_fel.zip` file from Sciebo and place it in the root of this project directory.
+   Download the `dreame.vacuum.r2338_1527_fel.zip` file from e.g. Sciebo or dustbuilder and place it in the root of this project directory.
 
 2. **Initialize the Environment**:  
    Run the following command to set up the environment:
