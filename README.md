@@ -31,3 +31,13 @@ To build the provided examples, run:
 
    ```
 
+## How to copy files from or to Robot
+
+Robot to Dev
+   ```bash
+scp -S /usr/local/bin/dbclient ./CMakeCache.txt niklas@172.16.35.166:/home/niklas/Desktop/Readme.txt
+   ```
+   Dev to Robot
+   ```bash
+scp -S /usr/local/bin/dbclient niklas@172.16.35.166:/home/niklas/Desktop/Readme.txt ./niklas.txt
+   ```
